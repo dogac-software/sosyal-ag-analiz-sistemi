@@ -1,0 +1,2 @@
+# sosyal-ag-analiz-sistemi
+ Bu proje, kullanıcılar arasındaki ilişkilerin ağaç tabanlı veri yapıları ile modellenerek analiz edilmesini amaçlamaktadır. Derinlik öncelikli arama (DFS), ortak arkadaş analizi, topluluk tespiti ve etki alanı hesaplaması gibi sosyal ağ analizi görevleri gerçekleştirilmiştir. Ayrıca kullanıcı aramalarını optimize etmek için kırmızı-siyah ağaç veri yapısı kullanılmıştır.
